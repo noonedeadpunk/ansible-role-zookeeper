@@ -26,3 +26,4 @@
 # under the License.
 ---
 __zookeeper_package_name: zookeeperd
+zookeeper_service_zookeeper_name: zookeeper
